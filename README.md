@@ -1,4 +1,4 @@
-# ML_AI_Log_App
+# AI_ML_Log_App
 Leveraging ML capability to improve platform stability and resilience
 
 This application is part of dissertation of BITS Pilani WILP M.Tech in Data Science Engineering program. The goal here is to develop a system that is able to read application logs and predict applicative issues.
