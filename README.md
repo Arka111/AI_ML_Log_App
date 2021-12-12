@@ -7,4 +7,4 @@ The following components are part of the framework.
 
 1. Log Collection : Applicative logs generated are aggregated with tools like Kafka, ELK Stack etc.
 2. Log Parsing : Convert unstructured log into structured events.
-3. Predict issues : Feature extraction is performed on structured logs and models are applied to detect and predict issues. 
+3. Log Analyzer : Feature extraction is performed on structured logs and models are applied to detect and predict issues. 
