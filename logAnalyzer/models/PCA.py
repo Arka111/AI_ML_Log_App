@@ -1,13 +1,10 @@
 """
-The implementation of PCA model for anomaly detection.
-
-Authors: 
-    LogPAI Team
-
-Reference: 
-    [1] Wei Xu, Ling Huang, Armando Fox, David Patterson, Michael I. Jordan. 
-        Large-Scale System Problems Detection by Mining Console Logs. ACM 
-        Symposium on Operating Systems Principles (SOSP), 2009.
+The implementation of the decision tree model for detecting issues.
+Authors: Arkajyoti MISRA
+Reference:
+    [1] Mike Chen, Alice X. Zheng, Jim Lloyd, Michael I. Jordan, Eric Brewer.
+        Failure Diagnosis Using Decision Trees. IEEE International Conference
+        on Autonomic Computing (ICAC), 2004.
 
 """
 
